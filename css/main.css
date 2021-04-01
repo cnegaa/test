@@ -5,3 +5,12 @@ a {
 .red {
 	background: red;
 }
+
+body {
+	background: green;
+} 
+
+div {
+	font-size: 400px;
+}   
+>>>>>>> body
